@@ -42,5 +42,3 @@ By generating synthetic images, PixelGen reduces the need for extensive data col
 PixelGen is a cutting-edge tool designed to generate CIFAR-10-like images through the use of GANs. It offers a user-friendly platform for training models and creating images, thereby improving data augmentation, facilitating concept exploration, and enhancing prototyping capabilities. With its pioneering methodology and numerous advantages, PixelGen is positioned to have a profound influence on the realms of machine learning, digital art, and beyond.
 
 ---
-
-Feel free to customize this README to better fit your needs and preferences. Happy coding!
